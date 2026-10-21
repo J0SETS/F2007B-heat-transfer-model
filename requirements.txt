@@ -1,0 +1,7 @@
+ipykernel==7.4.0
+numpy
+matplotlib
+tqdm
+numba
+plotly
+nbformat
